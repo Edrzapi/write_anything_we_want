@@ -21,7 +21,7 @@ jobs:
       - name: Say Hello 
         run: echo "Hello from GH Actions!"
       - name: List Files
-        run: la -la
+        run: ls -la
         
 
 
